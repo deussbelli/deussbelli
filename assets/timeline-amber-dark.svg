@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 544" width="1080" height="544" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" role="img" aria-label="Career timeline 2020 to 2026 by track">
+<rect width="1080" height="544" fill="#12100A"/>
+<text x="34" y="34" fill="#FFF6DF" font-size="17" font-weight="700">Career timeline &#183; 2020 &#8594; 2026</text>
+<line x1="372.0" y1="64" x2="372.0" y2="500" stroke="#251F12" stroke-width="1"/>
+<text x="372.0" y="520" fill="#A89878" font-size="12" text-anchor="middle">2020</text>
+<line x1="454.7" y1="64" x2="454.7" y2="500" stroke="#251F12" stroke-width="1"/>
+<text x="454.7" y="520" fill="#A89878" font-size="12" text-anchor="middle">2021</text>
+<line x1="537.3" y1="64" x2="537.3" y2="500" stroke="#251F12" stroke-width="1"/>
+<text x="537.3" y="520" fill="#A89878" font-size="12" text-anchor="middle">2022</text>
+<line x1="620.0" y1="64" x2="620.0" y2="500" stroke="#251F12" stroke-width="1"/>
+<text x="620.0" y="520" fill="#A89878" font-size="12" text-anchor="middle">2023</text>
+<line x1="702.7" y1="64" x2="702.7" y2="500" stroke="#251F12" stroke-width="1"/>
+<text x="702.7" y="520" fill="#A89878" font-size="12" text-anchor="middle">2024</text>
+<line x1="785.3" y1="64" x2="785.3" y2="500" stroke="#251F12" stroke-width="1"/>
+<text x="785.3" y="520" fill="#A89878" font-size="12" text-anchor="middle">2025</text>
+<line x1="868.0" y1="64" x2="868.0" y2="500" stroke="#251F12" stroke-width="1"/>
+<text x="868.0" y="520" fill="#A89878" font-size="12" text-anchor="middle">2026</text>
+<text x="358" y="77" fill="#FFF6DF" font-size="12.5" text-anchor="end">Middle Fullstack Developer + AI Engineer</text>
+<text x="358" y="90" fill="#A89878" font-size="11" text-anchor="end">Tocan Solutions</text>
+<rect x="785.3" y="69" width="132.3" height="20" rx="4" fill="#B37D12"/>
+<text x="925.6" y="83" fill="#A89878" font-size="10.5">AI / ML</text>
+<text x="358" y="115" fill="#FFF6DF" font-size="12.5" text-anchor="end">IT Project Manager</text>
+<text x="358" y="128" fill="#A89878" font-size="11" text-anchor="end">Digitum NL</text>
+<rect x="723.3" y="107" width="194.3" height="20" rx="4" fill="#D9A62E"/>
+<text x="925.6" y="121" fill="#A89878" font-size="10.5">Delivery &amp; PM</text>
+<text x="358" y="153" fill="#FFF6DF" font-size="12.5" text-anchor="end">Python / Full-Stack Developer</text>
+<text x="358" y="166" fill="#A89878" font-size="11" text-anchor="end">Freelance &amp; Commercial</text>
+<rect x="378.6" y="145" width="539.0" height="20" rx="4" fill="#8A5A08"/>
+<text x="925.6" y="159" fill="#A89878" font-size="10.5">Engineering</text>
+<text x="358" y="191" fill="#FFF6DF" font-size="12.5" text-anchor="end">Media Buyer / Account Manager</text>
+<text x="358" y="204" fill="#A89878" font-size="11" text-anchor="end">leeloo.ai</text>
+<rect x="785.3" y="183" width="82.7" height="20" rx="4" fill="#F2CE72"/>
+<text x="876.0" y="197" fill="#A89878" font-size="10.5">Growth &amp; Marketing</text>
+<text x="358" y="229" fill="#FFF6DF" font-size="12.5" text-anchor="end">Project Manager / Client Communication Manager</text>
+<text x="358" y="242" fill="#A89878" font-size="11" text-anchor="end">Veyrala Team</text>
+<rect x="702.7" y="221" width="165.3" height="20" rx="4" fill="#D9A62E"/>
+<text x="876.0" y="235" fill="#A89878" font-size="10.5">Delivery &amp; PM</text>
+<text x="358" y="267" fill="#FFF6DF" font-size="12.5" text-anchor="end">IT Project Manager</text>
+<text x="358" y="280" fill="#A89878" font-size="11" text-anchor="end">WebStork</text>
+<rect x="785.3" y="259" width="74.4" height="20" rx="4" fill="#D9A62E"/>
+<text x="867.7" y="273" fill="#A89878" font-size="10.5">Delivery &amp; PM</text>
+<text x="358" y="305" fill="#FFF6DF" font-size="12.5" text-anchor="end">IT Project Manager / Media Buyer / Account Manager</text>
+<text x="358" y="318" fill="#A89878" font-size="11" text-anchor="end">IndagoDev</text>
+<rect x="702.7" y="297" width="82.7" height="20" rx="4" fill="#F2CE72"/>
+<text x="793.3" y="311" fill="#A89878" font-size="10.5">Growth &amp; Marketing</text>
+<text x="358" y="343" fill="#FFF6DF" font-size="12.5" text-anchor="end">Full-Stack Developer + AI Engineer</text>
+<text x="358" y="356" fill="#A89878" font-size="11" text-anchor="end">Quorvane Team</text>
+<rect x="620.0" y="335" width="165.3" height="20" rx="4" fill="#B37D12"/>
+<text x="793.3" y="349" fill="#A89878" font-size="10.5">AI / ML</text>
+<text x="358" y="381" fill="#FFF6DF" font-size="12.5" text-anchor="end">Frontend / Full-Stack Developer</text>
+<text x="358" y="394" fill="#A89878" font-size="11" text-anchor="end">Veyrala Team</text>
+<rect x="620.0" y="373" width="165.3" height="20" rx="4" fill="#8A5A08"/>
+<text x="793.3" y="387" fill="#A89878" font-size="10.5">Engineering</text>
+<text x="358" y="419" fill="#FFF6DF" font-size="12.5" text-anchor="end">IT Copywriter</text>
+<text x="358" y="432" fill="#A89878" font-size="11" text-anchor="end">Quintagroup</text>
+<rect x="620.0" y="411" width="107.5" height="20" rx="4" fill="#F2CE72"/>
+<text x="735.5" y="425" fill="#A89878" font-size="10.5">Growth &amp; Marketing</text>
+<text x="358" y="457" fill="#FFF6DF" font-size="12.5" text-anchor="end">Project Manager / Marketer</text>
+<text x="358" y="470" fill="#A89878" font-size="11" text-anchor="end">Obrenda Team</text>
+<rect x="543.9" y="449" width="157.9" height="20" rx="4" fill="#D9A62E"/>
+<text x="709.8" y="463" fill="#A89878" font-size="10.5">Delivery &amp; PM</text>
+<line x1="372" y1="500" x2="930" y2="500" stroke="#3A3020" stroke-width="1"/>
+</svg>

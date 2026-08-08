@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 278" width="1080" height="278" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" role="img" aria-label="Career timeline 2020 to 2026 by track">
+<rect width="1080" height="278" fill="#ffffff"/>
+<text x="34" y="34" fill="#1A1206" font-size="17" font-weight="700">Career timeline &#183; engineering &#183; 2020 &#8594; 2026</text>
+<line x1="372.0" y1="64" x2="372.0" y2="234" stroke="#F2EADA" stroke-width="1"/>
+<text x="372.0" y="254" fill="#8A7A5A" font-size="12" text-anchor="middle">2020</text>
+<line x1="454.7" y1="64" x2="454.7" y2="234" stroke="#F2EADA" stroke-width="1"/>
+<text x="454.7" y="254" fill="#8A7A5A" font-size="12" text-anchor="middle">2021</text>
+<line x1="537.3" y1="64" x2="537.3" y2="234" stroke="#F2EADA" stroke-width="1"/>
+<text x="537.3" y="254" fill="#8A7A5A" font-size="12" text-anchor="middle">2022</text>
+<line x1="620.0" y1="64" x2="620.0" y2="234" stroke="#F2EADA" stroke-width="1"/>
+<text x="620.0" y="254" fill="#8A7A5A" font-size="12" text-anchor="middle">2023</text>
+<line x1="702.7" y1="64" x2="702.7" y2="234" stroke="#F2EADA" stroke-width="1"/>
+<text x="702.7" y="254" fill="#8A7A5A" font-size="12" text-anchor="middle">2024</text>
+<line x1="785.3" y1="64" x2="785.3" y2="234" stroke="#F2EADA" stroke-width="1"/>
+<text x="785.3" y="254" fill="#8A7A5A" font-size="12" text-anchor="middle">2025</text>
+<line x1="868.0" y1="64" x2="868.0" y2="234" stroke="#F2EADA" stroke-width="1"/>
+<text x="868.0" y="254" fill="#8A7A5A" font-size="12" text-anchor="middle">2026</text>
+<text x="358" y="77" fill="#1A1206" font-size="12.5" text-anchor="end">Middle Fullstack Developer + AI Engineer</text>
+<text x="358" y="90" fill="#8A7A5A" font-size="11" text-anchor="end">Tocan Solutions</text>
+<rect x="785.3" y="69" width="132.3" height="20" rx="4" fill="#A06A0C"/>
+<text x="925.6" y="83" fill="#8A7A5A" font-size="10.5">AI / ML</text>
+<text x="358" y="115" fill="#1A1206" font-size="12.5" text-anchor="end">Python / Full-Stack Developer</text>
+<text x="358" y="128" fill="#8A7A5A" font-size="11" text-anchor="end">Freelance &amp; Commercial</text>
+<rect x="378.6" y="107" width="539.0" height="20" rx="4" fill="#7A4A05"/>
+<text x="925.6" y="121" fill="#8A7A5A" font-size="10.5">Engineering</text>
+<text x="358" y="153" fill="#1A1206" font-size="12.5" text-anchor="end">Full-Stack Developer + AI Engineer</text>
+<text x="358" y="166" fill="#8A7A5A" font-size="11" text-anchor="end">Quorvane Team</text>
+<rect x="620.0" y="145" width="165.3" height="20" rx="4" fill="#A06A0C"/>
+<text x="793.3" y="159" fill="#8A7A5A" font-size="10.5">AI / ML</text>
+<text x="358" y="191" fill="#1A1206" font-size="12.5" text-anchor="end">Frontend / Full-Stack Developer</text>
+<text x="358" y="204" fill="#8A7A5A" font-size="11" text-anchor="end">Veyrala Team</text>
+<rect x="620.0" y="183" width="165.3" height="20" rx="4" fill="#7A4A05"/>
+<text x="793.3" y="197" fill="#8A7A5A" font-size="10.5">Engineering</text>
+<line x1="372" y1="234" x2="930" y2="234" stroke="#D8CCB0" stroke-width="1"/>
+</svg>
